@@ -31,18 +31,23 @@ In module one I set out the learn Ruby. The progress I have made throughout the 
 The goal of the project was to build a binary search tree using ruby.
 
 1. Functional Expectations
+2. 
 1: Application is missing more than one base expectation
 
 2. Test-Driven Development
+3. 
 2: Application makes some use of tests, but the coverage is insufficient
 
 3. Encapsulation / Breaking Logic into Components
+4. 
 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 
 4. Fundamental Ruby & Style
+5. 
 2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 
 5. Looping or Recursion
+6. 
 3: Application makes effective use of loop/recursion techniques
 
 #### Event Reporter
