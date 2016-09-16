@@ -85,7 +85,7 @@ In Event Reporter I learned how to build a relational database with data from CS
 * [GitHub URL](https://github.com/Robbie-Smith/Enigma)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
 
-(description)
+In Enigma we built an encrypting and decrypting program that mirrors Alan Turing's machine built during WWII. 
 
 Notes:
 
