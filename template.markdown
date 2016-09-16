@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Nicholas Martinez - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+In module one I set out the learn Ruby. The progress I have made throughout the module is fantastic. I realized throughout the mod that computer programming is much more creative than I thought it was coming into Turing. I have really had to work on adjusting the way I approach problems and think about the projects. 
 
 ## Rubric Scores
 
@@ -23,14 +23,14 @@
 
 (Intro)
 
-#### (Project Name)
+#### (Datenight)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/NZenitram/datenight)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
-(description)
+The goal of the project was to build a binary search tree using ruby.
 
-(evaluation comments)
+
 
 (evaluation scores)
 
