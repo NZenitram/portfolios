@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-In module one I set out the learn Ruby. The progress I have made throughout the module is fantastic. I realized throughout the mod that computer programming is much more creative than I thought it was coming into Turing. I have really had to work on adjusting the way I approach problems and think about the projects. 
+In module one I set out the learn Ruby. The progress I have made throughout the module is fantastic. I realized throughout the mod that computer programming is much more creative than I thought it was coming into Turing. I have really had to work on adjusting the way I approach problems and think about the projects. I am focusing on TDD throughout the Headcount projects rather than diving head first into code. The number one critique of my work has been about refining the process of my work.
 
 ## Rubric Scores
 
@@ -30,9 +30,25 @@ In module one I set out the learn Ruby. The progress I have made throughout the 
 
 The goal of the project was to build a binary search tree using ruby.
 
+1. Functional Expectations
+1: Application is missing more than one base expectation
 
+2. Test-Driven Development
+2: Application makes some use of tests, but the coverage is insufficient
 
-(evaluation scores)
+3. Encapsulation / Breaking Logic into Components
+2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+
+4. Fundamental Ruby & Style
+2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+
+5. Looping or Recursion
+3: Application makes effective use of loop/recursion techniques
+
+#### Event Reporter
+
+* [GitHub URL](https://github.com/NZenitram/event-reporter)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown)
 
 ## C: Group Work & Projects
 
